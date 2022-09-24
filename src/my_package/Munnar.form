@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-18,0,0,4,-80"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Algerian" size="48" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Munnar"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="510" y="40" width="220" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Georgia" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Best Places To Visit In Munnar In Summer"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="210" y="120" width="480" height="50"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="210" y="180" width="860" height="350"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Arial" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1. Anamudi Peak&#xa;This is the highest mountain peak in South India. It has an elevation of 8,842-ft above the mean sea level. The beauty of this peak is it is not in the usual pyramidal or conical peak. It is a huge monolith rock in an elephant-like structure. That is why it is named as Ananimudi which means the forehead of an elephant. You can view this peak by nearing Eravikulam National Park. It is 13-km away from Munnar. You can reach up to 6,000-ft through Annamalai hill trekking. It is the best place to be at this altitude and see them in May month&#x2019;s clear sky.&#xa;&#xa;2. Chinnakanal Waterfalls&#xa;It is a mind-blowing natural waterfall on the way to Suriyanelli from Munnar. The road to Suriyanelli passes just near to the flowing water. They flow just the downstream valley. You can just enjoy the milky water flowing from a top height. There is a small bathing place with safety bars. The opposite of this waterfall is tea estates. It is the finest palace to be in the month of May and cool with freshwater and mountain mists. It is an excellent place to take photos of this waterfall, mountain valley, and tea estates as a backdrop.&#xa;&#xa;3. Chinnar Wildlife Sanctuary&#xa;This is a rain forest and protected area of the Western Ghats Mountain Ranges preset in Idukki, Kerala. It is on the highway of Munnar to Udumalpet. A day trip is enough to explore this wilderness in May summer days. You will be exploring the heights and this forest cover from 1,600-ft to 7,500-ft through jeep safari. You can see the exotic flora and fauna of this sanctuary. You can also spot wild elephants, leopards, and Nilgiri Thars. This is one of the most famous places to visit in Munnar in May. River Pambar flows through this wildlife sanctuary. You can see the Thoovanam Waterfalls while hiking in this sanctuary.&#xa;&#xa;4. Echo Point&#xa;This is a natural acoustic phenomenon place in Munnar. It is 10-km away from Munnar. This place itself is a hill locked area. You will be at 600-ft altitude where you must stand on the banks of the river and shout to hear your eco more than three times. Yet, you must scream towards the hillock valley to hear your echo. You can go for pedal boating in this river. It is the finest place to land for romantic people to enjoy the river, mountains, and valleys in one place. You can find mountain mists just floating touching the mountain peaks.&#xa;&#xa;5. Eravikulam National Park&#xa;The animal and bird lovers must take a wild safari during May to see them in their natural state. You will be exploring in-between 6,000-ft to 6,500-ft above the mean sea level. This National Park is the house for some of the extant species too. This is because many such species are biome of this rain forest only. You must start early in the morning to explore by a jungle safari in a jeep. You can find the beauty of the Shola forest. The Anamudi peak and Naikolli Mala Peak is visible from this park. You can also see the beauty of Kanan Devan hills from the top of this National Park.&#xa;&#xa;6. KDHP Museum&#xa;No one once in Munnar can miss the Kanan Devan Hills Produce museum. This is on the central junction of the Munnar Town. This is the biggest museum to see the history of tea plantation in this mountainous region. It is the best place to explore in May to see the work behind the tea we all are drinking daily. You can see the black and white photos too. By taking permission, you can also hike in the KDHP tea estate, which surrounds the Munnar backdrop in lush green tea plantation beauty. You can also by the garden-fresh tea from the KDHP outlet near this museum. You can do tea tasting here, before deciding to buy a green tea or normal dust tea.&#xa;&#xa;7. Lock Heart Gap&#xa;The Lock Heart Gap is a scenic driveway in the Western Ghats. You must drive in MTB or a jeep to see the stunning views of this hill lock and mountain valley. You have to enroot from Munnar road to Chinnakannal to see the natural beauty of this gap. During the summer, you can view the mountain peaks surrounding this valley in a clear sky. You can find Lock Heart tea estate on both sides of this scenic road. You can find flowing mountain mists in all-seasons. During summer, they appear like clouds.&#xa;&#xa;8. Mattupetty Dam&#xa;You have to travel a few kilometers from Echo Point to reach this scenic dam in Munnar. You can find water in May month too. Boating is an important activity to do here. You can find many roadside vendors selling fresh vegetable produce brought from exotic Mattupetti Village. You must taste the garden-fresh carrots. It is a cool place to take a day trip once in the Munnar tour. If you are lucky, you can find wild elephants drinking water near the catchment area. The dam surrounding is exotic to see with rolling hills and lush green meadows.&#xa;&#xa;9. Meesapulimala&#xa;You will feel heaven on earth once you visit the 3rd highest Mountain peak of the Western Ghats Mountain Ranges. This is an accessible peak with moderate difficulties. When you reach this peak, you will be at an altitude of 8,661-ft above the mean sea level. In May, you can see the Tamil Nadu on the East and Kerala on the west. The clouds just touch your feet and go here. You must visit here to see the sunrise above the blanket of clouds just below your feet. You can see the vastness of the Western Ghats in Idukki from this mountain peak."/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="870" y="560" width="150" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/my_package/MunnarSumm.jpg"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

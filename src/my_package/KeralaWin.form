@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-18,0,0,4,-80"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Algerian" size="48" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Kerala"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="510" y="20" width="210" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Georgia" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Places To Visit In Winter In Kerala"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="190" y="90" width="390" height="40"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="190" y="140" width="800" height="410"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Arial" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1. Kochi &#x2013; Bustling Port City&#xa;The coastal city of Kerala is the ideal destination to spend winter in Kerala. The magnificent Fort Kochi, the Chinese fishing nets, Portuguese and Dutch-era houses, the crumbling remains of the British Raj and the stunning shoreline are an intriguing amalgamation of what makes this town so vintage and quaint. The best time to visit Kochi is in December as the year-end carnival takes place during this time. Enjoy bike races, fire displays, beach football, floor drawings and swimming competitions during this 10-day carnival.&#xa;Best Restaurants: Mary&#x2019;s Kitchen, Mosaic&#xa;Places to stay: Sea Lagoon Health Resort, Radisson Blu Kochi&#xa;Things to do: Enjoy year-end carnival, visit Cherai Beach&#xa;&#xa;2. Munnar &#x2013; Charming Hill Station&#xa;The beautiful hill station of Munnar is an absolute stunner with scenic views of the lush green tea estates, the misty valleys and the slight chill in the air that you can feel up amidst the mountains of this quaint hill station. There are several trekking routes in the hill station that you can enjoy, indulge in a cup of hot tea at the TATA tea museum and witness the breathtaking waterfalls cascading down the slopes. Feel the old world charm vibe of this hill station and itch your wanderlust.&#xa;Best Restaurants: Hotel Sri Nivas, Copper Castle&#xa;Places to stay: Munnar Tea Country Resort, Tea Valley Resort&#xa;Things to do: Have hot tea at Tata Tea Museum, witness gorgeous waterfalls&#xa;&#xa;3. Alleppey &#x2013; Venice Of The East&#xa;Known as the &#x2018;Venice Of The East&#x2019;, Alleppey is famous for its backwaters, live your dream of living in a houseboat surrounded by serene backwaters of Alleppey. The well-ornamented snake boats are the major attraction of this place. Kerala Houseboat stays are an ideal way to live your lifestyle and the perfect opportunity to explore the scenic charm of backwaters of Kerala. Unravel the local culture and get a glimpse of the village life, take an adventure on the water and experience the true heritage of Kerala.&#xa;Best Restaurants: Harbour Restaurant, Cafe Katamaran&#xa;Places to stay: Lake Canopy, Lake Palace Resort&#xa;Things to do: Houseboat stays &#xa;&#xa;4. Wayanad &#x2013; The Land Of Paddy Fields&#xa;Sprawling across the Western Ghats, Wayanad is fondly known as the &#x2018;The Land Of Paddy Fields&#x2019; as it holds a significant beauty amidst the lush green mountains. The dense forests, paddy fields, coconut palm plantations and the narrow winding roads will captivate your mind and soul. You can explore the Meenmutty Falls or Chembra Peak, marvel at the ancient architecture of Jain temples or trek to the Edakkal caves.&#xa;Best Restaurants: Wilton Restaurant, `Jubilee Restaurant&#xa;Places to stay: LakeRose Wayand Resort, Vistara Resort&#xa;Things to do: Explore the Meenmutty Falls or Chembra Peak&#xa;&#xa;5. Kozhikode &#x2013; Unwind On The Beaches&#xa;Explore the place where Vasco da Gama first set foot on Indian soil at Kappad. From the elephant&#x2019;s parades to percussion events and Theyyam rituals, there are plenty of things to do and places to visit in kozhikode. You can relax and unwind on the beaches of Kozhikode or Kappad beach amidst the sea breeze and breathtaking sunsets.&#xa;Best Restaurants: Hotel Paragon Restaurant, Hotel Rahmath&#xa;Places to stay: Grand Plaza Suites, Copper Folia&#xa;Things to do: Explore the beaches and enjoy stunning sunsets&#xa;&#xa;6. Thekkady &#x2013; Explore The Periyar National Park&#xa;Witness nature in all its glory in Thekkady, this place is in full bloom in winter. Explore the Periyar National Park which is a major attraction, go on jungle safaris and spot the Great Indian tiger, sambars, gaurs, leopards and more. Enjoy the wildlife boat rides along the Thekkady lake or you could also attend the Garudan festival that takes place in the Kali temples.&#xa;Best Restaurants: Grandma&#x2019;s Cafe, Ebony&#x2019;s Cafe&#xa;Places to stay: The Elephant Court, Monsoon Retreats Eco Stay&#xa;Things to do: Explore the Periyar National Park&#xa;&#xa;7. Kovalam &#x2013; Go Beach Hopping&#xa;The beautiful resort own Kovalam is one of the preferred places to visit in Kerala in winters. Go beach hopping and explore the beautiful beaches. The most popular ones are Kovalam Beach, Light House Beach, Hawah Beach. December is one of the best time to enjoy surfing and experience the thrill of this water activity. Go exploring the town on a scooty which is also one of the best things to do during this time considering the pleasant weather.&#xa;Best Restaurants: German Bakery&#xa;Places to stay: Taj Green Cove Resort, The Raviz Kovalam&#xa;Things to do: Eat at a German Bakery, scooty rides, surfing, beach hopping&#xa;&#xa;8. Kumarakom &#x2013; Enjoy The Beautiful Scenery&#xa;Due to pleasant and stunning climate, Kumarakom is one of the most visited places in Kerala in winters. It is a great time to explore the best of Kumarakom, enjoy houseboat rides and indulge in outdoor activities. Not only this, the beautiful scenery and the overall experience makes it one if the places to visit for couples during the winters. Don&#x2019;t forget to visit the bird sanctuary and the Pathiramanal Island for a joyful trip.&#xa;Best Restaurants: The Waterside, Lime Tree&#xa;Places to stay: Kumarakom Lake Resort, Paradise Resorts&#xa;Things to do: Sightseeing tour, houseboat ride&#xa;&#xa;9. Idukki &#x2013; Popular For Its Backwaters&#xa;Idukki is an enchanting hill station in Kerala. It is popularly known for its backwaters and is best visited during winters. It is a great time to explore the city and travelers can enjoy sightseeing tours, houseboat rides and even see the variety of flora and fauna in the region.&#xa;Best Restaurants: Pappens, Hotel Shayadri&#xa;Places to stay: Palette Hill View Resort, Ragamaya Resort &amp; Spa&#xa;Things to do: Sightseeing tour, houseboat ride&#xa;&#xa;10. Vagamon &#x2013; Serene Ambiance&#xa;Vagamon is a perfect destination for those looking for an escape from the hectic city life. Set in a serene ambiance, this beautiful hill station of Kerala is famous for its thrilling paragliding activity. It is an ideal place for adventure lovers and the alluring beauty of the hills attracts many tourists to visit Vagamon in December for the best experience.&#xa;Best Restaurants: The Green House Restaurant, Chillax Vagamon Hotel&#xa;Places to stay: The Teadale Vagamon, Holiday Vagamon&#xa;How to reach: Nearest airport is the Cochin International Airport (75km from the city)&#xa;Things to do: Paragliding and other adventurous sports&#xa;&#xa;11. Silent Valley &#x2013; For Nature Lovers&#xa;Silent Valley National Park is yet another amazing place to visit in Kerala in winters. Located in Nilgiri Hills, it is home to some of the most amazing species of flora and fauna. A must-visit place for nature lovers and wildlife enthusiasts, the park is best visited during winters for comfortable weather conditions, high chances to spot elephant, thick grasses and mist covered peaks.&#xa;Best Restaurants: (near) Browncup Cafe&#xa;Places to stay: (near)Treetop Resort, Beech Valley Homestay Attapadi&#xa;Things to do: Spot different species of plants and animals"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="870" y="580" width="120" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/my_package/KeralaWin.jpg"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

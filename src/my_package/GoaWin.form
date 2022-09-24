@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,32,0,0,4,-80"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1200" height="800"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Algerian" size="48" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Goa"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="550" y="10" width="130" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Georgia" size="24" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Places To Visit In Goa During Winters"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="240" y="80" width="440" height="50"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="230" y="140" width="800" height="450"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Arial" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1. Old Goa &#x2013; Christmas Celebrations&#xa;If you are visiting Goa in December during Christmas, then there are some super enthralling things in store. Goa looks dazzling during Christmas and the happy-go-lucky locals soak in complete festivity during Christmas. Streets and beaches are decorated with strings of lights, stars, ribbons, and life-size ornamented Christmas trees, making it among the most delightful places to visit in India in December.&#xa;Key attractions: Midnight mass in any of the 400 churches of the state, cakes &amp; puddings at bakeries, and sumptuous Christmas dinner with roasted turkey, pork sorpotel, assorted grilled seafood, &amp; Bebinca&#xa;Events: Feast of St. Xavier on December 3rd (every year)&#xa;&#xa;2. Anjuna Beach &#x2013; For New Year Parties&#xa;Goa holds the reputation of the most vibrant &amp; happening party destination. And if it&#x2019;s the New Year Eve&#x2019;s party, it&#x2019;s obviously going to be more lively &amp; exhilarating. Almost all the beaches have their own celebration. But the unforgettable New Year party scene at Anjuna beach makes it one of the most happening places to visit in North Goa in December.&#xa;The beach shacks and pubs like Shiva Valley &amp; Curlies throw the most awesome parties with super enthusiast crowd, live animated music, delicious food, and amazing ambiance. But the spectacular fireworks are definitely the show stoppers.&#xa;Key attractions: Burning the Old Man (a Goanese tradition where a dummy old man with torn clothes is burnt to ashes, symbolizing the destruction of bygone worries and odds), techno music, and invigorating beverages &amp; food&#xa;&#xa;3. Arpora &#x2013; Midnight Shopping&#xa;Retail therapy in Goa is never on the back seat and December is no exception. Arpora&#x2019;s Saturday Night Market is one of the best places to visit in Goa in December to shop to your heart&#x2019;s content. Though it functions from November to April, the shopkeepers always bring out the best to satiate the large influx of tourists in December. The market opens every Saturday at 6 pm in the evening and runs till early morning. This shopping paradise looks all the more happening because of the hippie ambiance all over.&#xa;Key attractions: Live bands, Street DJ, Fire eaters, seafood kiosks, poi jugglers, and Goanese souvenirs&#xa;&#xa;4. Dona Paula Bay &#x2013; Water Sports And More&#xa;For those planning a Goa trip in December, watersports in the relaxing weather of December in Goa is to die for. Dona Paula Bay is known for offering the best happening adventure sports here. The activities are safe &amp; well-guided and inculcate exuberance. Be a brave heart and try all of them for it&#x2019;s worth an experience.&#xa;Key attractions: Dinghy sailing, windsurfing, parasailing, and scuba diving&#xa;&#xa;5. Cidade De Goa &#x2013; More For Watersports&#x2019; Lovers&#xa;Cidade de Goa is a swanky 5-star resort, nestled on the sprawling Vainguinim beach of Goa. One of the most sizzling places to visit in Goa in December, this place offers a wide range of watersports. And you needn&#x2019;t be staying there for these watersports. All you need to ensure is that you book in advance.&#xa;Key attractions: Windsurfing, parasailing, water skiing, water biking, canoeing, banana boat riding, and dinghy sailing&#xa;&#xa;6. Chorao Island &#x2013; Visit Salim Ali Bird Sanctuary&#xa;Located on the Mandovi River, Charao Island is a home to the popular Salim Ali Bird Sanctuary. This small &amp; pristine island should be on the list if you are visiting Goa in December. The month of December makes it an ideal place to spot most colorful &amp; rare domestic &amp; migratory birds in the fascinating bird sanctuary. This place is a hot favorite for nature lovers, trekkers, ornithologists, and those who are looking for little respite from back-to-back parties.&#xa;Key attractions: Rare birds in the bird sanctuary and vintage churches &amp; Portuguese homes in the Charao village&#xa;&#xa;7. Clubs, Bars, And Shacks &#x2013; Experience The Nightlife&#xa;Goa offers the most happening pubs, clubs, and beach shacks. Amongst all the places to visit in Goa during December; Baga Beach, Calangute Beach, and Arpora have the best clubs and shacks. All these places offer the most happening party scenes in Goa with great music, delectable food, cool crowd dancing to the electrifying beats, and amazing jamming sessions.&#xa;Key attractions: EDM gigs, beachside barbecue &amp; bonfire (on prior requests), and free booze hours&#xa;Most popular clubs: Tito&#x2019;s Club and Britto&#x2019;s Bar &amp; Restaurant (Baga Beach) | Club Cubana (Arpora) | Club Antoos (Calangute)&#xa;&#xa;8. Casinos &#x2013; Witness The Lavishness&#xa;The casinos on huge boats and ships docked in River Mandovi are the best places to visit in Goa in December for those who would love to earn a little extra. These casinos receive the maximum crowd of local &amp; international travelers in the month of December. The packages offered by most of the casinos include unlimited drinks &amp; food till you play.&#xa;Key attractions: Baccarat, Blackjack, Roulette, Texas Hold&#x2019;em Poker, 3 Card Poker, 5 Card Poker, Mini Flush, Casino War, Pontoon, Money Wheel, Sic Bo, and slot machines&#xa;Most popular casinos: Casino Paradise, Casino Pride, Deltin Royale, and Deltin Jaqk"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="880" y="630" width="140" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/my_package/GoaWin.jpg"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="1200" height="800"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-83,0,0,4,-103"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Algerian" size="48" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Agra"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="540" y="30" width="160" height="50"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Georgia" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Places To Visit In Agra"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="210" y="70" width="290" height="40"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="190" y="120" width="880" height="450"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Arial" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1. Agra Red Fort&#xa;A UNESCO world heritage monument, Agra Red Fort stands as a glorious tribute to the erstwhile Mughal Empire&#x2019;s heydays. Spread over a gigantic area of 3,80,000 sq. meters, this fort was built by Emperor Akbar in the year 1556, and later renovated in 1573 with red sandstone. The fort, which is at a distance of 2.2 km from Agra, is an absolute fortress, fortified on all sides with 70 feet high compound walls. Visiting Agra Fort is one of the foremost things to do in Agra.&#xa;Referred to as the Walled City, Agra Fort has four gates on the four sides which the most famous being the Delhi Gate and the Lahore Gate. This fort hosts numerous palaces and notable among them being the Shish Mahal and Khaas Mahal. Reception rooms Diwan-i-Khas and Diwan-i-Aam to several historic Masjids like Moti Masjid and Nagina Masjid are other worth seeing spots in this fort.&#xa;Location: Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003&#xa;Timings: 6:00 a.m. to 6:00 p.m.&#xa;Built by: Mughal Emperor Akbar&#xa;Built in: 1565&#xa;&#xa;2. Taj Mahal&#xa;Well, there we are! Finally come to the most important places to visit in Agra&#x2014;the Taj Mahal. In fact, most tours are organized with the Taj Mahal as the main attraction. Being one of the Seven Wonders of the World and a perfect showpiece of Mughal architecture, it had been built under the instructions of Shah Jahan in commemoration of his love to his beloved spouse Arjumand Bano Begum.&#xa;Both the interiors and the external edifice of the Taj Mahal are exquisitely designed in white marble. Shaped like an octagon the interior chamber is inlaid with precious gems. Matching their richness is the exterior gardens, flush with greenery and fresh air. Exuding immense Mughal charm, the Taj Mahal makes one of the best historical places in India.  &#xa;Location: Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001&#xa;Timings: 6:00 a.m. to 6:30 p.m., Fridays closed&#xa;Built by: Shah Jahan&#xa;Built in: 1631 &#x2013; 1648&#xa;&#xa;3. Fatehpur Sikri&#xa;Fatehpur Sikri is one of the must-visit Agra destinations. It is a historical town in the District of Agra and had been the erstwhile capital city of many Mughal Emperors including Akbar. Before being the capital city, Sikri was a decrepit village. It was given the present name in commemoration of the victory of Emperor Akbar over Gujarat in the year 1573.&#xa;Fatehpur Sikri town is situated on a rocky ridge that is 3 km long and 1 km wide and is styled in the architecture of Persia, India and Islamic heritage. Red sandstone, which was locally quarried, was used in the construction of the town. The town has seven gates with a boundary wall of 6 km. UNESCO declared this town as a World Heritage site. It ranks as one of the top tourist places in Agra which every visitor must add to their itinerary.&#xa;Location: Fatehpur Sikri, Agra District, UP&#xa;Timings: 6:00 a.m. to 6:00 p.m.&#xa;Built by: Emperor Akbar&#xa;Built in: 16th century&#xa;&#xa;4. Jama Masjid&#xa;The list of notable places to visit in Agra will be incomplete without mentioning Jama Masjid. Though a religious monument, it is known for its astounding loftiness and also its architectural richness which appeals to everybody. This four minaret Masjid, which can easily accommodate up to 25,000 people to pray at a time, has three gateways. Agra Red Fort is on the eastern side of Jama Masjid. Both the monuments give a majestic look.&#xa;The lofty dome, imposing archways and stunning tapestry in redstone lends an aura to this place. This World Heritage site sports the golden inscriptions on the royal blue colour background and is a must-see attraction of the place. This 17th-century mosque is popularly known as the &#x201c;Friday Mosque&#x201d;.&#xa;Location: Jama Masjid Rd, Subash Bazar, Kinari Bazar, Hing ki Mandi, Mantola, Agra, Uttar Pradesh 282003&#xa;Timings: 8:00 a.m. to 6:00 p.m.&#xa;Built by: Shah Jahan&#xa;Built in: 1648 A.D.&#xa;&#xa;5. Moti Masjid&#xa;Talking of masjids, there is another one called the Moti Masjid which is also one of the best places to visit in Agra. The famous Moti Masjid is one such monument that is known for its architecture and one which should not be missed out. Built by Mughal King Shah Jahan, Moti Masjid is also known as the Pearl Masjid due to its spotless white facade that shines like a pearl in the sunlight. The emperor had it built exclusively for the members of the Royal Court.&#xa;The interiors of the Moti Masjid are in the resplendent white colour scheme. A white marble tank is a centre of attraction in the courtyard. The sundial made out of marble pillars stands as testimony to the architectural wonder of the past era. Multiple arches lead to the large prayer hall of the mosque while the main entrance to the mosque is located on the Eastern side. It is a treat to view the Yamuna River from the precincts of the Moti Masjid.&#xa;Location:  State Highway 62 Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003&#xa;Timings: 8:00 a.m.to 6:00 p.m.&#xa;Built by: Shah Jahan&#xa;&#xa;6. Sikandra Fort&#xa;Sikandra Fort is one of the most historic spots and also considered one of the important places to visit in Agra. This deep red sandstone structure is an outstanding one for its timeless architectural beauty and showcases the glorious past of the region. Located in a place called Sikandra, the fort is the tomb of Emperor Akbar. This majestic fort stands tall amidst the lush green gardens on all sides enclosed within high walls.&#xa;The garden is divided into four smaller portions which are in tune with the landscaping traditions of the times. Several fountains add beauty to the edifice. Famed to be personally supervised by the Emperor Akbar, Sikandra Fort has five levels, with the intricate carvings adorning the walls. This well-preserved monument is undoubtedly one of the best places to visit in Agra which a tourist mustn&#x2019;t miss.&#xa;Location: Tomb of Akbar The Great Area, Sikandra, Agra, Uttar Pradesh 282007&#xa;Timings: 8:00 a.m. to 6:00 p.m.&#xa;Built by: Akbar&#xa;Built in: 1605-1613&#xa;&#xa;7. Itmad-Ud-Daulah&#x2019;s Tomb&#xa;Itmad-ud-Daulah&#x2019;s Tomb mausoleum is an architectural wonder in Agra after the famous Taj Mahal. Its elaborate carvings and artistic inlays are a treat to watch. It is referred to as the &#x201c;Baccha Taj&#x201d;- a smaller version of the Taj- and considered the draft of the Taj Mahal itself. This red sandstone tomb is one of the worth visiting places in Agra near Taj Mahal which should not be missed from the itinerary.&#xa;This pure white tomb located on the banks of Yamuna River is a perfect reflection of the Islamic style of architecture and the layouts. The ornately sculpted arches, immaculate minarets, intricate inlay work, stunning floral works and artistic use of marble to accentuate the beauty of the edifice are seen to be believed.&#xa;Location: Moti Bagh, Agra, Uttar Pradesh 282006&#xa;Timings: 8: 00 to 12:00 a.m.&#xa;Built by: Mughal queen Noor Jahan&#xa;Built in: 1622 &#x2013; 1628&#xa;&#xa;8. Jodha Bai Ka Rauza&#xa;Also known as Jodha Bai&#x2019;s Palace, it was the abode of the first Rajput consort of Emperor Akbar. A simple yet sophisticated structure, the palace of Jodha Bai is close to the Jahangiri Mahal. The edifice is a strong example of the Indo-Mughal style of architecture, reflecting the architectural nuances of Gujarat and Gwalior to a very large extent.&#xa;The Rauza or the Palace is at a distance of 6 km from the Agra Fort. The interiors of the palace have fine slits through which a glimpse of the Taj Mahal can be seen. Situated in Fatehpur Sikri area, this palace is a standing example of the religious tolerance of Mughal Emperor Akbar. The plethora of mural designs depicting lotus, elephants, peacocks and the like are a symbol of the unity of both religions.&#xa;Location: Arjun Nagar, Agra, Uttar Pradesh&#xa;Timings: 10:00 a.m. to 7:00 p.m.&#xa;Built by: Akbar&#xa;&#xa;9. Mehtab Bagh&#xa;Located to the north of the complex of the Taj Mahal and the Agra Fort, Mehtab Bagh is a square-shaped garden complex on the banks of the River Yamuna. It is in perfect sync with the Taj Mahal on the opposite bank of the Yamuna River. It is a popular spot for photographers for a captivating view of the sunset. It is one of the top places to visit in Agra in the evening thus remains flocked by travelers throughout the year.&#xa;This spectacular garden sports four towers right at each corner of an octagonal tank. The reflection of the Taj Mahal in the tank, particularly on full moon nights, is a sight to behold. Blooming flower plants and medicinal herbs besides fruit-bearing trees abound the garden. It is a perfect symbol of the Mughal architecture with a layout of 4 gardens. The large water tank on the east of the structure ensures that the whole area is properly irrigated.&#xa;Location: near Taj Mahal, Dharmapuri, Forest Colony, Nagla Devjit, Agra, Uttar Pradesh 282001&#xa;Timings: 6:00 a.m. to 9:00 p.m.&#xa;Built by: Emperor Babur&#xa;Built in: Early 1500s&#xa;&#xa;10. Machhi Bhawan&#xa;Macchi Bhawan is a double-storeyed complex surrounded by a lavish garden and is characterized by the arched galleries. The reason why it is called machi Bhavan is that it was adorned with marble tanks and fountains in which gold and silver fishes were kept. This place used to be the Golden throne of Shah Jahan that allowed him to have the entire view of the court. One of the best places to visit in Agra, it is located opposite to Diwan-i-Aam in Agra Fort.&#xa;Location: Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003&#xa;Timings: 6:00 a.m. to 6:00 p.m.&#xa;Built by: Shah Jahan&#xa;&#xa;11. Akbar&#x2019;s Tomb&#xa;Built-in 1605-1613, Akbar&#x2019;s Tomb is where the immortal remains of Emperor Akbar are replaced. Located in Sikandra, Akbar himself ordered the construction of the tomb while he was alive. When Aurangzeb came into power, his army looted all the gold, silver, jewels, and from the tomb Yet it remains one of the most beautiful tourist places in Agra. It can be entered through the southern gateway that leads to a huge garden arranged in Charbagh style.&#xa;Location: Tomb of Akbar The Great Area, Sikandra, Agra, Uttar Pradesh 282007&#xa;Timings: 6:00 a.m. to 6:00 p.m.&#xa;Built by: Jahangir&#xa;Built in: 1605&#x2013;1613"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="900" y="590" width="140" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/my_package/Agra.jpg"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

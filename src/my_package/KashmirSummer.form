@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-18,0,0,4,-80"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Algerian" size="48" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Kashmir"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="450" y="30" width="240" height="70"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Georgia" size="24" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Places To Visit In Kashmir"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="120" y="120" width="360" height="40"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="120" y="160" width="950" height="390"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Arial" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1. Kathua&#xa;Sharing southern borders with Himachal Pradesh as well as Punjab, Kathua is one of the most beautiful places to visit during summers. It is also known as the &#x201c;city of Sufis&#x201d; and you can visit numerous Sufi shrines here. This gorgeous place offers you a delightful sight of Kashmir&#x2019;s history, thus making it a top choice for the people who love to witness the beauty of history. You can also plan a short picnic with your family and friends, as this place boasts a tranquil atmosphere and breathtaking views. Just unwinding by the banks of the river is one of the best things you can do here.&#xa;&#xa;Things to do: Visit Jasrota fort or enjoy a relaxing picnic at Ujh Barrage&#xa;Best time to visit: May to August&#xa;&#xa;&#xa;2. Pulwama&#xa;If your idea of summer vacation is about trekking and mountain climbing, then visiting Pulwama will definitely not disappoint you. Also called the &#x201c;Rice Bowl of Kashmir&#x201d;, Pulwama is a picturesque village boasting charming saffron fields. It is just 40 km from Srinagar and there are many worth visiting tourist attractions here. This place is also known for its rich culture, pleasant weather, serene ambiance and friendly people.&#xa;&#xa;Things to do: Trekking and mountaineering&#xa;Best time to visit: April to October&#xa;&#xa;&#xa;3. Kishtwar&#xa;Kishtwar is yet another perfect place to enjoy summer in Kashmir, as it offers some of the offbeat things to do in Kashmir in summers. Camping amidst the lush green deodar forests and pine forests is one of the best things to do with your crazy friends. You can also go trekking on the lofty hills and rejuvenate your soul like never before. Perfect for wildlife lovers, this place boasts a national park as well. Do not forget to visit the famous pilgrimages Sarthal Yatra and Machail Yatra here.&#xa;&#xa;Things to do: Pilgrimage, camping, trekking, and wildlife safari&#xa;Best time to visit: May to August&#xa;&#xa;&#xa;4. Poonch&#xa;Right from soothing activities like sightseeing to thrilling stuff like trekking, Poonch has something for everyone. Experience a sense of peace and calmness by visiting the holy shrines like Gurudwara Nangali Sahib and Baksh Sahib. The breathtaking view of the seven lakes of Girgan Dhok is indeed a treat to the eyes. The verdant meadows and snow-clad mountains deserve a special mention here, as they enhance the overall charm of this place.&#xa;&#xa;Things to do: Sightseeing, trekking, or visit the temples and Poonch fort&#xa;Best time to visit: May to August&#xa;&#xa;&#xa;5. Doda&#xa;Doda is mainly popular for its Hindu temples, i.e. Chandi Mata Temple and Athra Devi Temple. The adventure junkies will have the best time of their life, as one can give a shot to various thrilling activities on the huge mountains. If you want to spend this summer in Kashmir, then do not forget to add Doda to your itinerary.&#xa;&#xa;Things to do: Rock climbing, trekking, temple visit, and mountaineering&#xa;Best time to visit: May to August&#xa;&#xa;&#xa;6. Anantnag&#xa;Anantnag is one of the most preferred tourist spots due to its fresh water springs and lush green gardens. You can plan a refreshing day trip to Daksum and Verinag and explore the true essence of nature. This divine tourist destination also comprises some holy temples for you to worship and attain peace.&#xa;&#xa;Things to do: You can visit some of the holy temples, or go for sightseeing trips here&#xa;Best time to visit: May to August&#xa;&#xa;&#xa;7. Vaishno Devi&#xa;If you wish to shop, trek and try local cuisine all at the same place, then this town located in Trikuta Hills is perfect for you to visit this summer. Being one of the sacred places to visit in Kashmir, Vaishno Devi draws numerous tourists throughout the year. You can either take the 13 km trek or the options like helicopters, ponies or palanquins to reach this famous temple. Since this temple is considered one among the 108 Shakti Peeth in India, you cannot miss out on visiting this religious destination in Kashmir.&#xa;&#xa;Things to do: Try local food, shopping, and trekking&#xa;Best time to visit: March to October&#xa;&#xa;&#xa;8. Dachigam National Park&#xa;Nestled just 22 km from Srinagar, Dachigam national park is known for its rich flora and fauna, and you get to see various species of animals and plants here. The charming landscape of this national park is truly one of its kind. This summer vacation, experience the mesmerizing beauty of wildlife and nature at Dachigam national park.&#xa;&#xa;Things to do: Wildlife safari&#xa;Best time to visit: May and June&#xa;&#xa;&#xa;9. Sanasar&#xa;Perfect amalgamation of calm atmosphere and adventurous vibes, Sanasar offers some of the best things to do in Kashmir in summers. The adventure enthusiasts can feel the adrenaline rush by performing various exhilarating activities such as paragliding, rock climbing, trekking and abseiling. Surrounded by lush green mountains, trees, and lakes, this place is perfect for experiencing the bliss of calmness as well as the excitement of adventure.&#xa;&#xa;Things to do: Sightseeing, trekking, paragliding, camping&#xa;Best time to visit: April to June&#xa;&#xa;&#xa;10. Hemis&#xa;This relatively small village boasts some marvelous monasteries and the enchanting national park. The wildlife enthusiasts can visit the national park and witness the animals like bharals and snow leopards here. This hidden gem in Kashmir is definitely worth visiting to explore the natural beauty of wildlife and the tranquility of monasteries.&#xa;&#xa;Things to do: Hemis National Park, Hemis Monastery&#xa;Best time to visit: May to July"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="920" y="580" width="130" height="50"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/my_package/KashmirSummer.jpg"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

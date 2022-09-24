@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-18,0,0,4,-80"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Algerian" size="48" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Manali"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="520" y="40" width="200" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Georgia" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Best Places To Visit In Manali"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="190" y="110" width="380" height="40"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="180" y="160" width="900" height="430"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Arial" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1. Solang Valley &#x2013; Witness Snow- Capped Mountains&#xa;Solang valley is a beautiful scenic spot in Manali that is located at an altitude of 2560 meters. The entire area is surrounded by the gorgeous green mountains and lush greenery of the coniferous trees that makes Manali quite famous. It is one of the few places in Manali where you can witness snow-capped mountains in June. Many people take part in adrenaline-inducing activities like paragliding, zorbing, parachuting, horse riding and other while visiting Solang Valley. Though these activities can get disrupted if there is heavy rainfall. The area is opened from 10 am to 6 pm, and you will need to ticket to enter there.&#xa;&#xa;2. Vashist Hot Water Springs &#x2013; Embrace The Heat Of Pristine Water&#xa;Vashisht hot water springs is one of the unique places in Manali that offers hot water to all the pilgrims that visit the Vashisht ashram hot water via natural water springs. The reason behind this phenomenon is the presence of sulphur in the spring. Many people prefer to bathe in the boiling water, and you will be surprised to find several Turkish style bathhouses present out there. You will be able to relax in those baths without any external disturbance. The shrine of Saint Vashishta is located beside the hot springs, and many pilgrims visit Manali because of him. You can reach the site easily by walking since it is located 4 km from the main city centre of Manali. Or else, you will find several autos or rental cabs that would take you to there.&#xa;&#xa;3. Beas River &#x2013; A Photographer&#x2019;s Paradise&#xa;Beas River looks mesmerizingly beautiful in June because the not only the quantity of water in the river increases but the currents also grow stronger. The scenic view of the river situated amid the lush greenery of the coniferous forest and the gorgeous mountains make the river even more enchanting. Beas is also significant for another primary historical reason. It is the river where the great Alexander stopped his expedition to invade India in 326 BC. Most people prefer to sit by the bank of the river and take part in a picnic with their close ones. The water of this river also offers the best opportunity for river rafting in Manali. You can even visit Pandho dam that is located quite close to the river. The river is a photographer&#x2019;s paradise since every frame surrounding the river is fabulous.&#xa;&#xa;4. Kothi Village &#x2013; Base To Start Trekking To Rohtang&#xa;Kothi village might not be immensely popular, but it is breathtakingly beautiful. You will be dumbstruck by the gorgeous views it is surrounded with. If you visit Manali in June, you will be able to visit Kothi without any problem because the roads are opened during that time. The village primarily serves as the base to start trekking expeditions to Rohtang pass. There are multiple hot springs located around the town, and most people prefer to hike for reaching the town. Kothi is located on the route to Solang valley and Rohtang pass.&#xa;&#xa;5. Rohtang Pass &#x2013; Take Part In Adventure Sports&#xa;Rohtang pass is not only widely famous among the Indian tourists but among traveller from different points of the world as well. The pass is located in the Pir Panjal range and is situated at the height of around 4000 meters. It is not an ordinary pass. Rohtang pass is blessed to be located amid the confluence of Beas and Chenab river and surrounded by the grandeur of the Pir Panjal range. Many people prefer to take part in adventure sports after reaching there. The pass closes from November and reopens in May. Hence, in case you visit Manali in June, you will have no problem in reaching Rohtang pass because it will be open during that time.&#xa;&#xa;6. Hadimba Temple &#x2013; Witness The Unique Architecture&#xa;Constructed in 1553, Hadimba temple has been famous among the tourists for a long time. Dedicated to Hadimba Devi who is known to be the wife of Bhima, it is one of the famous temples in Manali. If you witness the temple for the first time, you will be quite surprised because the architecture of the temple is unique and distinct. You will not find this category of design in any other temple in India, but these are more common in Buddhist monasteries. Whether you are visiting Manali in June or any other month of the year, you will have no problem in getting into Hadimba temple. In case you want to know more about the history of the temple, you can check out the Museum of Himachal culture and folk art that is located quite close to it.&#xa;&#xa;7. The Great Himalayan National Park &#x2013; For Nature And Wildlife Enthusiasts&#xa;The Great Himalayan national park is listed in the UNESCO world heritage site and it hence popular among tourists all over the world. If you are a nature and wildlife enthusiasts, you will have a great time in the national park because it has more than 375 different species of flora and fauna located out there. Many tourists visit the park to take part in trekking since there are distinct trails located out there. You can also visit nearby popular places like the Tirthan valley and Banjar valley. To enter the park, you will have to pay INR 100 for Indian tourists and INR 250 for foreigners, and in case you want to do videography, you will have to pay extra money.&#xa;&#xa;8. Jana Falls &#x2013; A Popular Picnic Spot&#xa;Jana Falls is among the most mesmerizing places to visit in Manali and is a must-visit for nature lovers. Located at a distance of 36km from Manali, it is a popular picnic spot surrounded by pine trees and snow-clad mountain peaks.  You can enjoy a refreshing bath here or simply cherish the splendid view of the waterfall and the pretty surrounding. An ideal time to visit this place is from September to June, so make sure you add this place to your itinerary while planning your Manali trip in June. &#xa;&#xa;9. Deo Tibba &#x2013; Offers Splendid Views&#xa;Deo Tibba trek also known as Chota Chandratal trek is one of the most beautiful treks in Manali for the splendid view it offers. June is a great time to indulge in this moderate level trek due to the pleasant temperature. The trail of the trek is home to a variety of flora and fauna, small streams and blue water of Chota Chandratal lake. This 6 day picturesque trek is perfect for veteran trekkers. &#xa;&#xa;10. Arjun Gufa &#x2013; Known For Its Natural Settings&#xa;Arjun Gufa is one of the best places to visit in Kullu Manali in June as the region is not extensively covered in snow during this time and the cool weather during the day time makes it possible to explore the cave. Considered to be a legendary natural formation this cave is a popular picnic spot and is known for its natural settings. The rocky structure makes it visually appealing attracting tourists from far across the world.&#xa;&#xa;11. Jagatsukh &#x2013; A Charming Himalayan Village&#xa;Jagatsukh is a charming Himalayan village and one of the most enthralling places to visit in Kullu Manali in June. It is mostly visited by tourists during this time as the season is apt to tour village and explore different attractions. It is a day trekking location and also the base camp for Deo Tibba trek. While you are exploring this beautiful village, don&#x2019;t miss to see Kalath a hot water spring here.&#xa;&#xa;12. Hampta Pass &#x2013; A Popular Destination For Mountain Lovers&#xa;Hampta Pass is a popular destination for all the mountain lovers and adventure enthusiasts. The best part about the Hampta pass trek is that it is suitable for beginners. What makes the visit special during the month of June is you might get an opportunity to witness snow on the high passes. The highlight of the trek is crossing high mountain passes, splendid views of Pir Panjal Ranges and picturesque alpine like Chandratal. Without a doubt, it is one of the best Manali places to visit in June. &#xa;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="890" y="630" width="150" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/my_package/ManaliSumm.jpg"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

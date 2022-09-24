@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-54,0,0,4,127"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Algerian" size="48" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Darjeeling"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="470" y="30" width="310" height="80"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Georgia" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Best Things To Do In Darjeeling In Summer"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="180" y="110" width="480" height="50"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="170" y="170" width="900" height="430"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Arial" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1. Tiger Hills &#x2013; Witness The Sunrise&#xa;Offering an awesome view during the sunrise, this beautiful hill is an ideal place wherein you can witness the Himalayan charm during the day. There will be a long queue of cars, hence make sure you start early in the high peak season, if you want to experience the sunrise. The highest point of Tiger hills is the Summit of Ghoom that offers a splendid view of Mt Everest and Mt Kanchenjunga. You can spot at the town of Kurseong and other mountain peaks from the hilltop.&#xa;Famous For: Splendid sunrise, Mesmerizing view of Mt Kanchenjunga and Mt Everest&#xa;&#xa;2. Dooars &#x2013; Spot Rhinos&#xa;Positioned at the foothills of the Eastern Himalayas, this Dooars is an awesome place to visit for nature enthusiasts. A fabulous getaway to the hill stations of Bhutan and North Bengal, this place is well known for its tea gardens and forests. A home to reptiles, one-horned rhinos and herds of deer, this area is famous for its wildlife sanctuaries. Popular tourist attractions of this place include Suntalekhola, Mahananda Wildlife Sanctuary and Chapramari Wildlife Sanctuary.&#xa;Famous For: Wildlife sanctuaries and among nature enthusiasts&#xa;&#xa;3. Darjeeling Zoo &#x2013; Meet Red Pandas&#xa;Housing diverse species of animals, Padmaja Naidu Himalayan Zoological Park is the only zoo in the whole country that is internationally recognized for protection breeding programmes of Tibetan Wolf, Snow Leopards, and Red Panda. In fact, it&#x2019;s one of the only places in West Bengal where you can see the famed Red Pandas.&#xa;Timings: 8.30 AM &#x2013; 5 PM (Closed on Thursday)&#xa;&#xa;4. Batasia Loop &#x2013; Ride The Toy Train&#xa;Taking a ride on the heritage toy train is a must thing to do when you visit Darjeeling. One can enjoy a two hours round trip from Darjeeling railway station to Ghum &amp; vice versa. Admire the beauty of Kanchenjunga at Batasia where the train makes a loop around the fabulous garden. This is one of the fun activities that is a must to explore. Start your ride from Ghoom and stop at Kurseon to eat at the food joints. Here you can explore the par anomic view of the surrounding hills that will take you into the world of romance.&#xa;Toy Train Joyride Fare:&#xa;Diesel Engine Rides: INR 805&#xa;Steam Engine Rides: INR 1,405&#xa;&#xa;5. Bhutia Market &#x2013; Go Shopping&#xa;Well known as New Mahakal Market, this market is an awesome destination that is popular for its sweaters, shawls and caps. Also, there are many hand knitted and creative items available at a very reasonable price and not to forget there is no compromise on quality. You just cannot go back from the hill station without getting some woolen shawls.&#xa;&#xa;6. Rock Garden &#x2013; Have A Picnic&#xa;Positioned 10 km from Darjeeling, Rock Garden is a fabulous picnic spot to be explored by all the tourists. Surrounded by alluring stream and charming flower gardens, this is an apt place for all nature lovers. The routes here are enclosed with lush greenery and steep roads. Adding to the beauty of the place, the soothing sound of the natural fall known as Chunnu will leave you mesmerized. One of the well known summer places Darjeeling, the Rock Garden is known tourist spots to be explored. This man made garden is rich with flora, bridges and waterfalls. You can find ample activities to explore here that make Darjeeling worth visiting. This picnic spot in the rocky area is ideal for capturing photographs with pony riding and local attire.&#xa;Timings: 8 am &#x2013; 6 pm&#xa;&#xa;7. Teesta &#x2013; Try White Water Rafting&#xa;Head to this Teesta river that is one of the fabulous experience of river rafting in India. This activity is full of fun with difficulty level ranging from Grade 1 to 4. Make sure you abide by all the safety rules and use a life jacket that is provided by the operator. This is an awesome activity to enjoy during Darjeeling in summer.&#xa;Ideal For: Adventure seekers and nature lovers&#xa;&#xa;8. Himalayan Mountaineering Institute &#x2013; Learn Rock Climbing&#xa;Located at Jawahar Parvat in Darjeeling, the Himalayan Mountaineering Institute conducts a number of courses related to adventure and mountaineering. The duration of the course ranges from a month to a few days. Also, there are basic activities for one-time tourists, who don&#x2019;t want to get into full fledged courses. The entire experience is truly unmatched and exhilarating.&#xa;Cost: The Basic Course costing INR 4000/- per person. Rock Climbing and other smaller activities are provided through walk-in and cost around 200 bucks per person.&#xa;Timings: 9 am &#x2013; 5 pm&#xa;&#xa;9. Nightingale Park &#x2013; Take A Walk&#xa;Stroll through the Nightingale Park and inhale fresh air in the salubrious mountain while you enjoy the fabulous view of the majestic mountains from this equally majestic and unique garden space. There is a huge statue of Lord Shiva and a musical fountain placed at the centre of the park which also happens to be the prime highlight of this park.&#xa;Entry Fee: INR 10 for adults&#xa;Timings: 7 am &#x2013; 8 pm"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="880" y="640" width="160" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/my_package/DarjeelingSumm.jpg"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

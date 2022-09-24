@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-18,0,0,4,-80"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Algerian" size="48" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Ooty"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="540" y="40" width="150" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Georgia" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Best Places To Visit In Ooty"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="160" y="100" width="360" height="50"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="150" y="150" width="970" height="460"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Arial" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1. Ooty Lake&#xa;Ooty Lake is a man made wonder constructed in 1823 and is a prime tourist attraction for complete fun and entertainment. Eucalyptus grooves on the edges of the lake will surely evoke a sense of great pleasure and attraction. Quaintly located amid breathtaking surroundings, this lake is mainly popular for its Boathouse, which offers various activities like paddle boats, rowboats, and motorboats. With the enchanting Nilgiris in the backdrop, Ooty Lake is also a photographer&#x2019;s delight and a must-visit place for nature lovers. All the activities are carried out under the supervision of Tamil Nadu Tourism Development Corporation (TTDC). Ooty Summer Festival, held every year in the month of May is must-visit to catch a glimpse of the myriad colors of Ooty. This is a 121-year old fest that lasts for 16 days.&#xa;&#xa;Timings: 10 AM &#x2013; 6:30 pm&#xa;Entry fee: INR 13 for Indians and INR 560 for foreigners / Boat rides start from INR 240&#xa;Major attractions: Horse riding, Cycling, 7D cinema, Mirror House, Amusement Park, Mini train ride&#xa;&#xa;&#xa;2. Ooty Rose Garden&#xa;Containing more than 20,000 varieties of roses, the spectacular Rose Garden is undoubtedly the pride of Ooty and a best place to visit in summer in Ooty. Perhaps one of the most bewitching and captivating garden in the world, the Ooty Rose Garden has been honoured with the &#x201c;Garden of Excellence Award&#x201d; for South Asia from the World Federation of Rose Societies. The warm and tropical mountain climate of Ooty makes it perfect for the plants to thrive and bloom with full glory. Get ready to soak in the breathtaking beauty of some of the most exotic species of roses including black and green roses. Other rare and unique rose species found here include hybrid tea roses, ramblers and floribunda. Sprawling across 10 acres of verdant greenery, the Ooty Rose Garden is a visual treat for plant lovers, photography enthusiast and people alike.&#xa;&#xa;Timings: 8:30 AM &#x2013; 6 pm&#xa;Entry fee: INR 20 per person&#xa;&#xa;&#xa;3. St Stephen&#x2019;s Church&#xa;Dating back to the 19th century, this fabulous pale-yellow architectural masterpiece was constructed under the rule of British empire in 1829. One of the prominent features of the church is the timber used and the main beam, which is said to be brought from the Palace of Tipu Sultan at Srirangapatna. Some of the major highlights of St Stephen&#x2019;s Church that allures tourists from all parts of the world are the paintings of &#x201c;The Last Supper&#x201d;, &#x201c;Mother Mary holding baby Jesus in her arms&#x201d; and the &#x201c;crucifixion of Christ&#x201d; reflected on the stained glass windows. The grandeur of this house of worship will truly leave you awestruck while the colonial architecture style of this imposing marvel is indeed a delight.&#xa;&#xa;Timings: All the days of the week except Sunday ( 10 AM &#x2013; 1 PM / 3 PM &#x2013; 5 PM)&#xa;Entry fee: NIL&#xa;&#xa;&#xa;4. Ooty Botanical Garden&#xa;A must-visit for in Ooty in summer vacation for sightseeing and photography. Botanical Garden is a sprawling beauty spread across 55-hectare with the panoramic views of the Doddabetta peak in the background. Established in the year of 1897, this horticulture park features more than 1000+ species of exotic plants, shrubs, ferns, bonsai and herbal plants. Ponds with eye-catching lilies, orchids and beds of flowers arranged according to Italian style makes this place ideal for short rejuvenation and is a favourite among holiday seekers during weekends.&#xa;&#xa;Timings: Monday to Friday (from 9 AM &#x2013; 6 PM)&#xa;Entry fee: INR 20 for children below 10 years &amp; INR 40 for adults&#xa;&#xa;&#xa;5. Doddabetta Peak&#xa;Located just 10 km from Ooty bus stop, Doddabetta is South India&#x2019;s highest mountain peak at a height of 2,623 meters (8650 feet). The jaw dropping views of the forests of Bandipur National Park, Chamundi Hills and the whole district from the summit will leave you stunned. Quite popular among adventure seekers, nature lovers and travellers alike, Doddabetta is a perfect getaway during summer in Ooty. The commanding views of the Nilgiris from atop on a clear day are a visual treat to the eyes. There are many low-challenging trekking &amp; hiking trails at Doddabetta peak for avid trekkers looking for an adventure with friends.&#xa;&#xa;Things to do: Sightseeing, photography, trekking, hiking&#xa;&#xa;&#xa;6. Mudumalai Wildlife Sanctuary&#xa;Located just 2 km from the Nilgiris District, this national park is a breeding ground for animals like wild boar, panthers, tigers, barking deer, gaur and many more. Also regarded as Tiger Reserve, this wildlife sanctuary is a wonderful scenic place spread across 32,155 hectares. One can also spot birds like Grey Jungle Fowl, Brown Dove, Malabar Whistling Thrush, Bulbuls, peacocks and many more playing in their natural habitat.  Established in 1940, Mudumalai was the foremost sanctuary in Southern India. Besides spotting the wildlife species, tourists can also spend some peaceful moment at Mayar waterfalls located within the premises or feed the elephants present at the Theppakadu Elephant camp.&#xa;&#xa;Timings: 6 AM &#x2013; 6 PM&#xa;Entry fee: INR 135 per for Canter Safari and INR 1500 for Jeep&#xa;Major attractions: Jungle Safari, Elephant Safari, Elephant camps, Bird watching and Trekking&#xa;&#xa;&#xa;7. Elk Hill Murugan Temple&#xa;Perched on top of the Elk Hill, this beautiful Murugan Temple sited in the resplendent settings with picturesque backdrop. Dedicated to Lord Muruga, this Hindu temple located amidst gorgeous landscape, boasts rich bounteous nature and flourishing wildlife. The calm atmosphere and scenic beauty of this place makes absolutely perfect place for yoga practices and meditation. The highlight of this temple is the 40 feet tall brick and mortar statue of Lord Muruga that stands outside the enclosure of the shrine. There are also idols of Lord Shiva, Goddess Shakthi, Lord Ganesha, Navagrahas, and Nava Kanika within the temple premises.&#xa;&#xa;Location: Elk Hill, Ooty&#xa;Timings: 8 AM &#x2013; 5 pm&#xa;&#xa;&#xa;8. Avalanche Lake&#xa;This place is located at a distance of 28 kms away from Ooty and considered to be one of the best places to enjoy Ooty in summer. Surrounded by the lush-greenery and the amazing landscapes, this place is one of a kind. The creation of the lake happened after a massive landslide around the time of the 1800&#x2019;s hence the name of the lake is Avalanche. The place is particularly famous for trout fishing and the essential equipment for this can be found at the Trout hatchery. Alongside this the place is also known for other activities like camping, rafting and trekking.&#xa;&#xa;&#xa;9. Kalhatty Waterfalls&#xa;Situated at the Ooty-Mysore road, Kalhatty waterfalls is one of the most beautiful waterfalls which is worth in Ooty in summer. This waterfall can be reached after walking for 2 miles from the Kalhatti village. According to the local beliefs, great Hindu saint Agastya once used to live here. Boasting a rich variant of flora and fauna, this place is often visited by the photographers and nature lovers who want to see the gushing water and the variety of birds in the surrounding.&#xa;&#xa;&#xa;10. Kamraj Sagar Dam&#xa;This is one of the famous places for shooting in Ooty which is located at a distance of 10 kms from the Ooty bus stand. Also called the Sandynallah Reservoir, this dam is known for its marvelous architecture and also surreal surroundings which makes this beautiful to capture. This is one of the famous picnic spots for the locals and tourists who come here to indulge into activities like bird watching and also fishing.&#xa;&#xa;&#xa;11. Pykara Waterfalls&#xa;To spend a relaxing time in Ooty in summer amidst nature&#x2019;s finest views, Pykara waterfalls is one of the most amazing places to visit. Located around 20 kms from Ooty, this place is an ideal location to witness the beautiful waterfalls which are surrounded by lush-greenery. Alongside this there is a boat house and a restaurant located close to the waterfall where people can enjoy a delicious meal. This place is also known for the Toda Settlements.&#xa;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="890" y="640" width="160" height="50"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/my_package/OotySumm.jpg"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

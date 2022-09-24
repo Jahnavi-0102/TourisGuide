@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-18,0,0,4,-80"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="true"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Algerian" size="48" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Rajasthan"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="460" y="30" width="310" height="50"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Georgia" size="24" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Places To Visit In Rajasthan During Winter"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="180" y="90" width="480" height="50"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="180" y="140" width="900" height="430"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Arial" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1. Mewar: Attend Kumbhalgarh Festival&#xa;With Kumbhalgarh Festival falling in December, Mewar is certainly one of the best places to visit in Rajasthan in winter. The cultural festival is held in Kumbhalgarh Fort where fine artists from different corners of the state gather to showcase their talent. Guests can enjoy folk performances during the day, and as the dusk knocks, the Sound &amp; Light Show steals the heart.&#xa;Kumbhalgarh Festival Highlights: Folk dance performances by local artists, and games such as Tug of War in which the spectators also participate&#xa;&#xa;2. Jaipur: Enjoy At Magnetic Fields Festival&#xa;Jaipur &#x2013; the Pink City has a lot of colors to unfurl! One occasion when these colors are on full bloom is the Magnetic Fields Festival. Held at Alsisar Mahal, it is a 3-day musical extravaganza that showcases the hip side of Jaipur.&#xa;Besides music, the festival has other attractions such as treasure hunting, rooftop dancing, Yoga classes, desert safari, secret parties and a lot more. With so much fun lined up, Jaipur is undoubtedly one of the best places to visit in Rajasthan in December. And There are counteless places to visit in Jaipur in December.&#xa;Magnetic Fields Festival Highlights: Tented accommodation, and a line-up of talented artists like Floating Points, Roman Flugel, Helena Hauff&#xa;Charges: INR 8500 per person onwards&#xa;Dates for Magnetic Fields Festival: NA&#xa;Places To Visit: City Palace, Amber Fort and Palace, Jantar Mantar Observatory, Birla Mandir.&#xa;&#xa;3. Pushkar: Attend Shree Sacred Festival&#xa;Being held on the pious ground of Pushkar, Shree &#x2013; The Sacred Festival creates awareness about how to attain bliss through Yoga, music, and guided meditation. This 3-day event is a star-studded affair as many popular musicians add charm to the celebrations. In the past years, musicians like Kailash Kher and Shubha Mudgal have stolen the show at the grand winter festival in Rajasthan.&#xa;Pushkar is a holy pilgrimage site for the Hindus. With 52 ghats and 400 tiny temples dotting the place, it is a great place to take a vacation. Brahma temple, Pushkar lake, and Savitri temple are key attractions.&#xa;Shree &#x2013; The Sacred Festival Highlights: A lineup of popular and talented musicians, guided meditation and chanting, heritage walks, watching folk performances&#xa;Dates For Shree &#x2013; The Sacred Festival 2022: NA&#xa;Places To Visit: Pushkar lake, Meerabai Temple&#xa;&#xa;4. Mount Abu: The Enticing Winter Festival&#xa;The Winter Festival in Mount Abu is a cultural extravaganza that hypnotises with colorful fireworks, cultural dance performances, concerts, competitions, and a landscape that looks like a painting. This annual festival begins with a procession that leads to Nakki Lake, one of the popular lakes in Rajasthan.&#xa;Each of the hues of this celebration make Mount Abu one of the must-visit places to visit in Rajasthan in December.&#xa;Mount Abu Winter Festival Highlights: Folk dance performances such as Ghoomar and Sufi Kathak, poetry reading, hot-air-ballooning, and kite-flying&#xa;Dates For Mount Abu Winter Festival 2022: 30th &#x2013; 31st December&#xa;Places To Visit: Dilwara Jain Temples, Nakki Lake, Peace Park&#xa;&#xa;5. Keoladeo National Park: Admire The Migratory Birds&#xa;While the architecture by Rajputs and Mughals is ideal for sightseeing in winter, it is the migratory birds in Keoladeo National Park that put it among the best places to visit in Rajasthan in winter. More popularly known as the Bharatpur Bird Sanctuary, it is a World Heritage Site and a delight for bird-lovers &amp; bird photography enthusiasts. Come here during the winter months, specifically December, to spot beautiful migratory birds flocking and enjoy sightseeing in the surroundings.&#xa;Entry Fee: INR 50 per person for Indian nationals | INR 400 per person for foreign nationals&#xa;Timings: 8:00 am to 5:00 pm&#xa;&#xa;6. Bishnoi &amp; Palil: Witness The Rural Rajasthan&#xa;Bishnoi and Pali have lately joined the list of popular places to visit in Rajasthan in winter. Seeing the growing interest of people in rural tourism, the government has started promoting village safari in the village, which is also home to the community of nature worshippers.Winters are ideal to explore the beaten tracks of Bishnoi &amp; Pali. The weather is pleasant, and perfect for traveling around and experiencing the traditional village life.&#xa;Popular Attractions In Bishnoi &amp; Pali: Shepherd&#x2019;s morning opium meet, and village safari&#xa;&#xa;7. Bundi: Get Lured By Tts Rustic Charm&#xa;Gradually gaining its fair share of attention among tourists, Bundi is now among the popular tourist places in Rajasthan in winter. Known for its rustic charm, lakes, and temples, Bundi has managed to stay in the limelight. Beautifully patterned houses, colorful markets, and imperial structures make for the perfect allure for travelers frequenting the place. During winter the temperature stays between 2 to 10 degrees, which is far pleasant compared to a red hot 44 degrees in summer and relatively humid monsoon.&#xa;Places To Visit: Lakes, market, temples, and blue houses similar to Jodhpur&#xa;&#xa;8. Dausa: Visit The Palace With Giant Step Wells&#xa;Known for imposing structures, palaces, and other historical grandeur, Dausa is one of the popular places to visit in Rajasthan in December. Given the moderate winter climate, it becomes ideal for a visit with family and friends. Also, the historical relevance of the places make a learning experience for the kids.&#xa;Places To Visit: Chawand, Abhaneri, Mehandipur Balaji temple, Bara Baoli, and Gopinath temple&#xa;&#xa;9. Udaipur: Vacation In The Lap Of Lakes&#xa;Udaipur&#x2019;s imposing landscape and magnificent lakes put it in the list of popular places to visit in Rajasthan in December. The atmosphere around is bright and maximum temperature hovers around 30 degrees, while the minimum temperature remains close to 12 degrees. Mild breeze sets the tone for sightseeing and savoring the charm of Udaipur.&#xa;Places To Visit: City Palace, Lake Palace, Saheliyon ki Bari, Lake Pichola, and Bagore ki Haveli&#xa;&#xa;10. Jaisalmer: Do The Dunes&#xa;Jaisalmer is true bliss in winter when camel ride and jeep safari doesn&#x2019;t sound like a task. At a mild 23 degrees the activities in the desert are more fun, which puts Jaisalmer among the most preferred places to visit in Rajasthan in December.&#xa;Nights are cool and cozy, and days are pleasant. This is the time when you can actually find honeymoon couples riding the camel into the sunrise and sunset. Jaisalmer is the place to be in winters.&#xa;Places To Visit: Jaisalmer Fort, Sam Sand Dunes, Bada Bagh, and Patwon ki Haveli&#xa;&#xa;11. Ranthambore: Witness The Grandeur&#xa;One of the UNESCO World Heritage sites, Ranthambore is a must visit place in December. It is majorly known for its grand Ranthambore fort. Apart from the fort, you must take the wildlife safari for an adventurous and unique experience.&#xa;Places To Visit: Trinetra Ganesh temple, Raj Bagh ruins, Padam talao&#xa;&#xa;12. Bharatpur Bird Sanctuary: Get Closer To Nature&#xa;One of the most famous places to see in Rajasthan in December, Bharatpur bird sanctuary is the perfect place for the bird lovers. During winters, you will get to witness various species of birds here that will leave you mesmerized! Some of the birds that can be seen are Sarus cranes, owlets and more.&#xa;Entry Fees: INR 50&#xa;Timings: 6:30am &#x2013; 5pm&#xa;&#xa;13. Jodhpur: The Blue City&#xa;Famed as the Blue City throughout the world, Jodhpur is one of the best places to visit in Rajasthan in December. From ancient forts to iconic temples, this city has a plethora of tourist attractions that you can visit on your vacation. The prime attractions in this city are the blue houses that are located nearby the Mehrangarh Fort. These houses make for a great backdrop for your photos and you must marvel at their beauty.&#xa;Places To Visit: Mehrangarh Fort, the Umaid Bhawan Palace, the Mandore Gardens, the Jaswant Thada&#xa;&#xa;14. Bikaner: Famed For Its Bikaner Bhujia&#xa;Bikaner is not only known for its forts but also the Bikaner Bhujia. One of the best cities to visit in Rajasthan in December, Bikaner offers all travelers delicious local food and impressive stay options. While exploring the city, you must visit Laxmi Niwas Palace and Junagarh Fort as they have a stunning structure that will leave you in awe! Do visit the famous restaurants to relish scrumptious food delicacies!&#xa;Places To Visit: Junagarh Fort, Lalgarh Palace, Karni Mata Temple, Laxmi Niwas Palace&#xa;&#xa;15. Ajmer: Seek Blessings At The Dargah&#xa;A vacation in Rajasthan is incomplete without paying a visit to the popular Ajmer Sharif Dargah. Ajmer is another one of the best places to visit in Rajasthan in December and is home to Ajmer Sharif Dargah. This city has various attractions of great religious importance like Nareli Jain Temple and Rangji Temple. You must take a relaxing walk throughout the city and visit the Ana Sagar Lake for a picturesque view of the sunset.&#xa;Places To Visit: Dargah Sharif, Ana Sagar Lake, Naag Pathar ranges&#xa;&#xa;16. Sawai Madhopur: Escape To The Wild&#xa;Founded in 1763 by Maharaja Sawai Madho Singh, Sawai Madhopur is a well-known district in Rajasthan. The impressive Ranthambhore National Park is located in Sawai Madhopur district and is one of the most visited tourist attractions in Rajasthan. Sawai Madhopur is another one of the popular places to visit in Rajasthan in December as you can have an encounter with the wild while the temperature is pleasant.&#xa;Places To Visit: Ranthambhore National Park, Ranthambore palace&#xa;&#xa;17. Alwar: Marvel At The Gorgeous Havelis&#xa;The city of Alwar was established in 1770 by a Rajput ruler. An abode of spectacular Havelis, historical forts, and natural reserves, this city is the perfect spot for all history buffs and nature lovers. Bhangarh Fort is located in Alwar and is a popular haunted place that attracts a lot of tourists. All wildlife lovers can visit Sariska Tiger Reserve and spend their day spotting tigers and other species of animals.&#xa;Places To Visit: Bhangarh fort, Sariska Tiger reserve, Pandupol, Karni Mata &#xa;&#xa;18. Chittorgarh: The Ancient City&#xa;One of the oldest places to visit in Rajasthan in December, Chittorgarh was founded in 734 AD by Pratap Singh. This historical city is the birthplace of great rulers like Maharana Pratap and Meera Bai. Chittorgarh Fort is one of the most visited attractions in the city and you must visit it on your vacation to get a peek into the glorious past of Chittorgarh.&#xa;Places To Visit: Chittorgarh fort, Rana Kumbha&#x2019;s Palace, Fateh Prakash Palace, Rani Padmini&#x2019;s palace&#xa;&#xa;19. Ranakpur: Paradise For Nature Lovers&#xa;Ranakpur is one of the popular places to visit in Rajasthan in December. It is a beautiful village that offers travelers with amazing sceneries, breathtaking mountains, lush greenery and gorgeous valleys. The serene destination is also home to some of the most amazing waterfalls and wildlife sanctuaries. Some of the activities you can enjoy here are trekking to Roopanmata, safari tour at Ranakpur Wildlife Sanctuary. If you&#x2019;re a foodie, fret not. There are some brilliant cafes and restaurants that offer delicious cuisines. For the shopaholics, you can visit the local bazaar and get amazing stuff at affordable prices.&#xa;Places To Visit: Ranakpur Wildlife Sanctuary, Jaba Wolf Point, Chaumukha Temple&#xa;&#xa;20. Mandawa: A Quaint Little Town&#xa;Mandawa is a small town in Rajasthan known for its open art gallery. There are many beautiful historical structures in the town popular for its paintings, murals and gorgeous artifacts making this place a must-visit for art, history and architecture lovers. There are various havelis you must visit here including the Murmuria Haveli, and the Hanuman Prasad Goenka Haveli, Chokhani Double Haveli, Saraf Haveli, and the Bansidhar Newatia Haveli. Most of these have now been restored into heritage hotels. October to February is the best time to visit this beautiful town considering the pleasant weather conditions.&#xa;Places To Visit: Murmuria Haveli, and the Hanuman Prasad Goenka Haveli, Mandawa Fort&#xa;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Back"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="900" y="590" width="160" height="60"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/my_package/RajasthanWin.jpg"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="1200" height="750"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
